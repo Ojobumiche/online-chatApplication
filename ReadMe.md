@@ -1,5 +1,7 @@
 🗨️ Java Online Chat Application
-This is a console-based multi-user chat application built using Java Socket programming. It allows multiple users to connect to a central server, send messages, and receive messages from others in real time. The app demonstrates the use of threads, networking, I/O streams, and concurrent programming in Java.
+This is a console-based multi-user chat application built using Java Socket programming.
+It allows multiple users to connect to a central server, send messages, and receive messages from others in real time.
+The app demonstrates the use of threads, networking, I/O streams, and concurrent programming in Java.
 _________________________________________________________________________________________________________________
 📌 Features
 •	🌐 Multi-user support using Socket and ServerSocket
